@@ -4,7 +4,7 @@
 This repo is a fork of [large-sort](https://github.com/nelson-perez/large-sort) and is not actively maintained.
 The purpose if this repo is to have a usable large-sort without the `uv_signal_start EINVAL` error.
 
-See this [PR](https://github.com/nelson-perez/large-sort/pull/3) for more context.
+See this [pull request](https://github.com/nelson-perez/large-sort/pull/3) for more context.
 
 # Overview
 
