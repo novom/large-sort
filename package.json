@@ -1,6 +1,6 @@
 {
-  "name": "@novom/large-sort",
-  "version": "0.2.4",
+  "name": "@novominteractive/large-sort",
+  "version": "0.2.5",
   "type": "commonjs",
   "description": "Fast Large file sorting library using external merge sort for NodeJS",
   "main": "./lib/large-sort.js",
@@ -41,7 +41,7 @@
     "typescript"
   ],
   "files": [
-    "./lib/**/*"
+    "lib"
   ],
   "devDependencies": {
     "@types/node": "^13.1.7",
